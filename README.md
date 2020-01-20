@@ -3,7 +3,7 @@
 ## ❓ About
 >Παράλληλος και Κατανεμημένος Υπολογισμός
 
-## ❓ Description
+## 👨‍💻 Description
 <img src="https://a.imagem.app/4ScaE.png" alt="4ScaE.png" border="0" width="300" />
 
 ## 🧰 Requirements
